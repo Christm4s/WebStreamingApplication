@@ -1,5 +1,6 @@
 package christm4s.webstreamingapplication;
 
+import android.content.res.Resources;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
@@ -153,8 +154,6 @@ public class MainActivity extends AppCompatActivity implements Session.SessionLi
     public void onVideoDisableWarningLifted(SubscriberKit subscriber) {
         Log.i(LOGTAG, "call to onVideoDisableWarning of the VideoListener");
     }
-
-
 
 
 }
