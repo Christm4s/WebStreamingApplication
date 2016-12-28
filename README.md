@@ -1,2 +1,2 @@
 # Web Streaming Application
-A multiple video streaming and chatting application.
+A multiple window video streaming and chatting application.
