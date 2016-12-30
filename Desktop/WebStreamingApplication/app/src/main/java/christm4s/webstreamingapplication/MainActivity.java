@@ -23,8 +23,8 @@ public class MainActivity extends AppCompatActivity implements Session.SessionLi
         Subscriber.VideoListener {
 
 
-    public static final String API_KEY = "45738392";
-    public static final String SESSION_ID = "1_MX40NTczODM5Mn5-MTQ4MjIxMzQzMTIzMX5KZTNkVVp4N3NQbW1uRVA2Uk5jeXhkem5-fg";
+    public static final String API_KEY = "45738392"; //Put your API Key here.
+    public static final String SESSION_ID = "1_MX40NTczODM5Mn5-MTQ4MjIxMzQzMTIzMX5KZTNkVVp4N3NQbW1uRVA2Uk5jeXhkem5-fg";  //Put your Session ID here which you can get after creating a session.
     public static final String TOKEN = "T1==cGFydG5lcl9pZD00NTczODM5MiZzaWc9MWE1NjM4MmUyM2RkZGJhODQ4ZDE4N2ExZmEyZTE4Yzk4NzNmODcyMDpzZXNzaW9uX2lkPTFfTVg0ME5UY3pPRE01TW41LU1UUTRNakl4TXpRek1USXpNWDVLWlROa1ZWcDROM05RYlcxdVJWQTJVazVqZVhoa2VtNS1mZyZjcmVhdGVfdGltZT0xNDgyMjEzNDQzJm5vbmNlPTAuMDczMzQ2MTI4OTQyMzkzMzQmcm9sZT1wdWJsaXNoZXImZXhwaXJlX3RpbWU9MTQ4MjIzNTA0MQ==";
     public static final String LOGTAG = "MainActivity.class.getName()";
 
