@@ -1,5 +1,5 @@
 # Web Streaming Application
-A multiple window video streaming and chatting application.
+A multi-user video streaming and chatting application.
 
 
 # *Creating a Session*
